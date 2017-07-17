@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Upload Folders\n"
+"POT-Creation-Date: 2013-06-26 19:12+0100\n"
+"PO-Revision-Date: 2013-06-26 19:19+0100\n"
+"Last-Translator: Rodolfo Buaiz <brasofilo@gmai.com>\n"
+"Language-Team: brasofilo <brasofilo@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom-upload-folders.php:111 custom-upload-folders.php:260
+msgid "Custom Upload Folders"
+msgstr "Carpeta Personalizada de Uploads"
+
+#: custom-upload-folders.php:112
+msgid ""
+"Organize the uploads by Year-Month-Day, File Type, Post ID or Author display "
+"name."
+msgstr ""
+"Organiza tus uploads por tipo de archivo, ID del post, nombre público del "
+"autor o Año-Mes-Día."
+
+#: custom-upload-folders.php:275
+msgid "By Post ID"
+msgstr "Por ID de la Entrada"
+
+#: custom-upload-folders.php:276
+msgid "By Post Slug"
+msgstr "Por Slug de la Entrada"
+
+#: custom-upload-folders.php:277
+msgid "By Author"
+msgstr "Por Autor"
+
+#: custom-upload-folders.php:278
+msgid "By File Type"
+msgstr "Por Tipo de Archivo"
+
+#: custom-upload-folders.php:279
+msgid "By Year Month Day"
+msgstr "Por Año Mes Día"
+
+#: custom-upload-folders.php:284
+msgid "-none-"
+msgstr "-ninguna-"
+
+#: custom-upload-folders.php:294
+msgid ""
+"Some configurations (even not organizing by Year/Month) are not recommended "
+"if your site has thousands of images."
+msgstr ""
+"Algunos ajustes (hasta no organizar por Año/Mes) no son recomendadas si tu "
+"site tiene miles de imágenes. "
+
+#: custom-upload-folders.php:295
+msgid "In this case, it's better to use ID, Slug or Date structures."
+msgstr "En ese caso, es mejor usar una estructura de ID, Slug o Fecha."
+
+#: custom-upload-folders.php:300
+msgid ""
+"Having \"Organize by Month Year\" enabled, will make the structure like: "
+msgstr "A opción \"Por Año Mes Día\" hace con que la estructura sea:"
+
+#: custom-upload-folders.php:301
+msgid "/uploads/custom-folder/year-month/"
+msgstr "/uploads/carpeta-personalizada/ano-mes/"
+
+#: custom-upload-folders.php:344
+msgid "Settings"
+msgstr "Ajustes"
+
+#~ msgid "Custom Upload Folder"
+#~ msgstr "Diretório Personalizado de Uploads"
